@@ -10,7 +10,7 @@ use : >>> Pydroid 3 app to run the Remote_10 program
 
 Steps to run the program :
 
-git clone < link >
+git clone https://github.com/kalivarun/Desktop_controller.git
 
 cd WIFI_Dev_Remote
 
