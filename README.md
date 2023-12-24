@@ -61,3 +61,9 @@ now open a Online car game in Client.exe pc > suggested to open NFS 2018 in pc
 now you will find a GUI in mobile after running the Remote_10.py in mobile (make sure the multi_server.py and Client.exe are running in different systems)
 
 press the buttons on the mobile to control the Game running on the Client.exe system.
+
+
+
+
+
+
