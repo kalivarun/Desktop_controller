@@ -1,0 +1,6 @@
+pyautogui  
+ctypes
+webbrowser
+smtplib
+ssl
+kivy
